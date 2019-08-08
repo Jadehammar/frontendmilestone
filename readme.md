@@ -62,8 +62,9 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+Most of this site was built by copying -and modifying code from the coursematerial. I've used code from two projects and altered it to suit my needs.
 Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+The photos used in this site were obtained from myself
+Acknowledgements for the video:
+https://www.youtube.com/channel/UCncrMvoBVIpCLcUZ8Ko56eg
+I received inspiration for this project from Atilla och Anders Kjellstrand
