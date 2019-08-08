@@ -1,4 +1,4 @@
-Ridingschool
+Ridingschool.
 
 This site was created for the owner to gain momentum in the bussiness of horsekeeping and runing a ridingschool.
 
